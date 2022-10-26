@@ -1,4 +1,3 @@
-package program2;
 
 // Write a Java program to print result of the following operations.
 // 1. -15 +58 * 45
